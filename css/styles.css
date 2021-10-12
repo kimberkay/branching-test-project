@@ -1,27 +1,11 @@
 h1 {
-<<<<<<< HEAD
-  color: blue;
-  text-align: center;
-=======
   color: darkred;
-  text-align: center:
->>>>>>> red_theme
+  text-align: center;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
-<<<<<<< HEAD
-  color: teal;
-}
-
-p {
-  color: gray;
-}
-
-body {
-  background-color: skyblue;
-=======
   color: red;
 }
 
@@ -33,5 +17,4 @@ body {
   background-color: salmon;
   font-family: sans-serif;
   text-align: center;
->>>>>>> red_theme
 }
